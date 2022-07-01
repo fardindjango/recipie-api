@@ -1,2 +1,1 @@
 # recipie-api
-recipie-api
